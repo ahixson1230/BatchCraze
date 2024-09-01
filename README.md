@@ -1,5 +1,8 @@
 # BatchCraze
 
+Project is documented on Hackaday:
+https://hackaday.io/project/197670-batch-craze
+
 This is a game I created that I'm calling Batch Craze, which plays the same as a popular game called Catch Phrase (a game that my family, friends, and I enjoy). A word of phrase is displayed on the screen, and you have to get the other players to guess it without saying the word or phrase.
 We picked up the NSFW "After Dark" version and were disappointed with the glossary of “edgy” phrases. This inspired me to build my own, with the ability to update the phrase/word list easily. My version has a couple of added features:
 - Touch screen instead of buttons
